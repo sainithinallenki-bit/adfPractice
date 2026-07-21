@@ -1,0 +1,12 @@
+{
+	"name": "ADFDemo2003",
+	"properties": {
+		"globalParameters": {
+			"inp": {
+				"type": "string",
+				"value": "input"
+			}
+		}
+	},
+	"location": "eastus"
+}
